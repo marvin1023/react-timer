@@ -13,6 +13,6 @@
     "prop-types": "^15.6.2"
   },
   "license": "ISC",
-  "name": "react-timer",
+  "name": "react-timer-next",
   "description": "A timer component for React"
 }

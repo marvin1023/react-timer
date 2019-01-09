@@ -1,6 +1,6 @@
-# React timer
+# React Timer Next
 
-React timer 为 react 的计时组件，提供顺计时（包含初始化时间），倒计时及开始暂停功能。
+React timer next 为 react 的计时组件，提供顺计时（包含初始化时间），倒计时及开始暂停功能。
 
 ## props
 
