@@ -81,10 +81,10 @@ function Hello({time, isPaused, changeStatus }) {
 
 ## 倒计时
 
-不到一天秒数倒计时
+不到一天的秒数倒计时
 
 ```jsx
-// time 返回的秒数
+// endTime 设置为秒数
 function Hello({time, isPaused, changeStatus }) {
   return (
     <div>
@@ -102,7 +102,7 @@ function Hello({time, isPaused, changeStatus }) {
 距离某天倒计时
 
 ```jsx
-// time 参数返回的是毫秒数
+// endTime 传入时间戳或距离1970年1月1日起的毫秒数
 function Hello({time, isPaused, changeStatus }) {
   
   return (
