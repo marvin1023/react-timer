@@ -1,6 +1,6 @@
 # React Timer Next
 
-React timer next 为 react 的计时组件，提供顺计时（包含初始化时间），倒计时及开始暂停功能。
+React timer next 为 react 的计时组件，提供顺计时（包含初始化时间），倒计时及开始暂停功能。[点此查看 demo](https://imweb.github.io/stone-ui/index.html#/%E4%BA%A4%E4%BA%92?id=timer)
 
 ## props
 
